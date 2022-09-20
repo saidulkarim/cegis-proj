@@ -1,0 +1,36 @@
+datagroupid,datagroupname,datasourceid,datasource,subdatasourceid,subdatasource,datasourcetype,datasourcepath,labelfield,classifyfield,filterexpression,linesize,linecolor,flagvarmap
+8,"Basic Data
+",1,Coastal Area,NULL,NULL,Shape,BasicDataWGS84/Coast05.shp,LENGTH,LENGTH,NULL,NULL,NULL,NULL
+8,Basic Data,10,BIWTA Route,NULL,NULL,Shape,BasicDataWGS84/biwtrt.shp,TYPE88,TYPE88,NULL,NULL,NULL,NULL
+8,Basic Data,2,District Head Quarter,NULL,NULL,Shape,BasicDataWGS84/dist_hq.shp,DISTNAME,DISTNAME,NULL,NULL,NULL,NULL
+8,Basic Data,3,District,NULL,NULL,Shape,BasicDataWGS84/dist11.shp,DISTNAME,DISTNAME,NULL,NULL,NULL,NULL
+8,Basic Data,4,Division,NULL,NULL,Shape,BasicDataWGS84/div11.shp,DIVNAME,DIVNAME,NULL,NULL,NULL,NULL
+8,Basic Data,5,International Boundary,NULL,NULL,Shape,BasicDataWGS84/intbnd01.shp,BORDER,BORDER,NULL,NULL,NULL,NULL
+8,Basic Data,6,National Road,NULL,NULL,Shape,BasicDataWGS84/lgedra.shp,TYPE,TYPE,NULL,NULL,NULL,NULL
+8,Basic Data,7,Regional Road,NULL,NULL,Shape,BasicDataWGS84/lgedrb.shp,TYPE,TYPE,NULL,NULL,NULL,NULL
+8,Basic Data,8,Zilla Road,NULL,NULL,Shape,BasicDataWGS84/lgedrc.shp,TYPE,TYPE,NULL,NULL,NULL,NULL
+8,Basic Data,9,Upazila Boundary,NULL,NULL,Shape,BasicDataWGS84/Upazila.shp,THANAME,THANAME,NULL,NULL,NULL,NULL
+8,Basic Data,11,Coastal Line ,NULL,NULL,Shape,BasicDataWGS84/coast05.shp,LENGTH,LENGTH,NULL,NULL,NULL,NULL
+8,Basic Data,12,Railway Line,NULL,NULL,Shape,BasicDataWGS84/rail_bd.shp,GAUGE,GAUGE,NULL,NULL,NULL,NULL
+11,Galachipa,2,Land Use,NULL,NULL,Shape,Galachipa/LandUse/Land_Use_84.shp,Land_Use,Land_Use,NULL,NULL,NULL,NULL
+11,Galachipa,3,Structural Plan,NULL,NULL,Shape,Galachipa/StructuralPlan/Structural_Plan_Galachipa_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+11,Galachipa,1,Cropping Pattern,NULL,NULL,Shape,Galachipa/CroppingPattern/Cropping_Pattern_Galachipa_84.shp,Land_Use,Land_Use,NULL,NULL,NULL,NULL
+12,Barguna Sadar,2,Land Use,NULL,NULL,Shape,BargunaSadar/Land_Use/Landuse_Barguna_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+12,Barguna Sadar,3,Structural Plan,NULL,NULL,Shape,BargunaSadar/Structural_Plan/BargunaStructuralPlan/Barguna_StructurePlan_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+12,Barguna Sadar,4,Paurashava Building,NULL,NULL,Shape,BargunaSadar/Structural_Plan/PaurashavaBuilding/Barguna_Paurashava_Building_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+12,Barguna Sadar,5,Paurashava Other Structures,NULL,NULL,Shape,BargunaSadar/Structural_Plan/PaurashavaOtherStructures/Barguna_Paurashava_Other_Structures_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+12,Barguna Sadar,6,Rural Building,NULL,NULL,Shape,BargunaSadar/Structural_Plan/RuralBuilding/Barguna_Rural_Building_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+12,Barguna Sadar,7,Rural Other Structures,NULL,NULL,Shape,BargunaSadar/Structural_Plan/RuralOtherStructures/Barguna_Rural_Other_Structures_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+12,Barguna Sadar,1,Cropping Pattern,NULL,NULL,Shape,BargunaSadar/Cropping_Pattern/Cropping_Pattern_Barguna.shp,Upazila,Upazila,NULL,NULL,NULL,NULL
+13,Patharghata,2,Land Use,NULL,NULL,Shape,Patharghata/Land_Use/Landuse_Patharghata_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+13,Patharghata,3,Structural Plan,NULL,NULL,Shape,Patharghata/Structural_Plan_Draft/PatharghataStructuralPlan/Patharghata_Structural_Plan_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+13,Patharghata,4,Paurashava Building,NULL,NULL,Shape,Patharghata/Structural_Plan_Draft/PaurashavaBuilding/Patharghata_Paurashava_Building_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+13,Patharghata,5,Paurashava Other Structures,NULL,NULL,Shape,Patharghata/Structural_Plan_Draft/PaurashavaOtherStructures/Patharghata_Paurashava_Other_Structures_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+13,Patharghata,6,Rural Building,NULL,NULL,Shape,Patharghata/Structural_Plan_Draft/RuralBuilding/Patharghata_Rural_Building_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+13,Patharghata,7,Rural Other Structures,NULL,NULL,Shape,Patharghata/Structural_Plan_Draft/RuralOtherStructures/Patharghata_Rural_Other_Structures_Polygon_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+13,Patharghata,1,Cropping Pattern,NULL,NULL,Shape,Patharghata/Cropping_Pattern/Cropping_Pattern_Patharghata_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+14,Rangabali,2,Land Use,NULL,NULL,Shape,Rangabali/Land_Use/Landuse_Rangabali_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+14,Rangabali,3,Structural Plan,NULL,NULL,Shape,Rangabali/Structural_Plan_Draft/Structure_Plan_Rangabali_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+14,Rangabali,1,Cropping Pattern,NULL,NULL,Shape,Rangabali/Cropping_Pattern/Cropping_Pattern_84.shp,Shape_Area,Shape_Area,NULL,NULL,NULL,NULL
+15,"Amtali, Taltali, Kalapara",1,Phase-1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+15,"Amtali, Taltali, Kalapara",2,Phase-2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
